@@ -54,3 +54,4 @@ Conclusion
 
 This project showcases how data analytics and visualization tools can turn raw stock market data into actionable insights.
 It highlights the synergy between Excel for data preparation and Power BI for visualization — enabling a complete workflow for real-world stock analysis and business intelligence reporting.
+
