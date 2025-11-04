@@ -1,36 +1,56 @@
-# adani-enterprises-stock-analysis
-This project analyzes the stock performance of Adani Enterprises Ltd. using historical NSE data. Excel was used for data cleaning and preprocessing, while Power BI was used to create interactive dashboards highlighting price trends, volatility, trading volumes, and market insights.
-DATA SOURCES 
+Adani Enterprises Stock Analysis
+Overview
+
+This project analyzes the stock performance of Adani Enterprises Ltd. using historical data from the National Stock Exchange of India (NSE).
+The analysis was carried out using Microsoft Excel for data cleaning and preprocessing, and Power BI for creating interactive dashboards and insightful visualizations.
+
+The goal is to uncover price trends, volatility patterns, trading volumes, and other key indicators to understand the company’s market behavior over time.
+
+Data Sources
+
 Source: NSE India – Adani Enterprises
+
 Type: Historical stock data (Open, High, Low, Close, Volume)
-Format: CSV/Excel
 
-TOOLS AND TECHNOLOGIES
-Microsoft Excel – Data cleaning, preprocessing, and initial analysis
-Power BI – Data modeling and interactive dashboard creation
+Format: CSV / Excel
 
+Tools & Technologies
 
-ANALYSIS & INSIGHTS
-Trend analysis of stock price movement
+Microsoft Excel: Data cleaning, preprocessing, and initial analysis
+
+Power BI: Data modeling, dashboard creation, and visualization
+
+Analysis & Insights
+
+Trend analysis of stock price movements
+
 Daily and monthly volatility tracking
+
 Volume-based performance insights
+
 Comparison of opening and closing price patterns
-Visual representation through Power BI dashboards
 
+Interactive visualizations in Power BI dashboards
 
-KEY FEATURES
+Key Features
+
 Cleaned and structured raw NSE data in Excel
-Built interactive Power BI visuals for easy exploration
-Identified key performance trends and stock volatility
-Dashboard filters for custom date and metric selection
 
-HOW TO USE 
+Built interactive Power BI dashboards for exploration
+
+Identified key performance trends and volatility metrics
+
+Added dynamic filters for date range and metric selection
+
+How to Use
+
 Download or clone this repository.
-Open the Excel file to view cleaned data.
-Open the Power BI file (.pbix) to explore dashboards.
 
+Open the Excel file to review cleaned and prepared data.
 
-CONCLUSION
-This project demonstrates how data analytics and visualization tools can transform raw financial data into actionable insights. It highlights the integration of Excel and Power BI for real-world stock analysis and business intelligence reporting.
+Open the Power BI (.pbix) file to explore interactive dashboards.
 
-This project demonstrates how data analytics and visualization tools can transform raw financial data into actionable insights. It highlights the integration of Excel and Power BI for real-world stock analysis and business intelligence reporting.
+Conclusion
+
+This project showcases how data analytics and visualization tools can turn raw stock market data into actionable insights.
+It highlights the synergy between Excel for data preparation and Power BI for visualization — enabling a complete workflow for real-world stock analysis and business intelligence reporting.
